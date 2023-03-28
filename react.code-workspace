@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "../../../../../../../react"
+	},
+	{
+		"name": "exchange-rate-prediction",
+		"path": "."
+	}
+],
+  "settings": {}
+}
